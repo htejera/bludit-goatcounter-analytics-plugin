@@ -1,0 +1,11 @@
+{
+    "author": "Tecnolocuras",
+    "email": "info@tecnolocuras.com",
+    "website": "https://tecnolocuras.com",
+    "version": "1.0.0",
+    "releaseDate": "2025-11-17",
+    "license": "MIT",
+    "compatible": "3.16.2",
+    "notes": "GoatCounter integration for Bludit"
+  }
+  

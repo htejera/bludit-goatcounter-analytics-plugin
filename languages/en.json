@@ -1,0 +1,14 @@
+{
+  "plugin-data": {
+    "name": "GoatCounter",
+    "description": "This plugin enables Bludit site owners to easily integrate <a href=\"https://www.goatcounter.com/\">GoatCounter</a> analytics and visitor counters into their websites, providing insights into site traffic and individual page views without compromising user privacy."
+  },
+  "title": "GoatCounter",
+  "endpoint": "GoatCounter endpoint (e.g. https://YOURCODE.goatcounter.com/count)",
+  "show_counter": "Show visitor counter",
+  "counter_type": "Counter type",
+  "counter_type_help": "Choose html, svg or png",
+  "css_selector": "CSS selector to place the counter",
+  "no_branding": "Remove GoatCounter branding",
+  "save": "Save"
+}

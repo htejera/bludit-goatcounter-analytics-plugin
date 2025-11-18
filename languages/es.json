@@ -1,0 +1,15 @@
+{
+	"plugin-data":
+	{
+		"name": "GoatCounter",
+		"description": "Este plugin permite integrar <a href=\"https://www.goatcounter.com/\">GoatCounter</a> en tus sitios web, proporcionando información sobre el tráfico del sitio y las visualizaciones de páginas individuales sin comprometer la privacidad del usuario."
+	},
+    "title": "GoatCounter",
+    "endpoint": "Endpoint de GoatCounter (ej: https://TUCÓDIGO.goatcounter.com/count)",
+    "show_counter": "Mostrar contador de visitantes",
+    "counter_type": "Tipo de contador",
+    "counter_type_help": "Elige html, svg o png",
+    "css_selector": "Selector CSS para posicionar el contador",
+    "no_branding": "Eliminar la marca GoatCounter",
+    "save": "Guardar"
+}
