@@ -26,13 +26,11 @@ This plugin enables [Bludit](https://www.bludit.com/) site owners to easily inte
 
 3. **Enter GoatCounter Code**: Input your GoatCounter code in the provided field to link your Bludit site with GoatCounter analytics.
 
-4. **Preview Mode**: Optionally, enable the output of the analytics code in preview mode for testing purposes. Remember to disable this before going live to avoid skewed analytics data.
-
 ## Visitor Counter
 
 To display a visitor counter on your site:
 
-1. **Enable Visitor Counter**: Check the **"Show Visitor Counter"** option in the plugin settings on Publii. You will need to enable **“Allow adding visitor counts on your website”** in your site settings panel on GoatCounter; this defaults to off to prevent unintentional leaking of data.
+1. **Enable Visitor Counter**: Check the **"Show Visitor Counter"** option in the plugin settings on Bludit. You will need to enable **“Allow adding visitor counts on your website”** in your site settings panel on GoatCounter; this defaults to off to prevent unintentional leaking of data.
 
    ![GoatCounter allow adding visitor counts](https://github.com/htejera/bludit-goatcounter-analytics-plugin/blob/main/img/allow-adding-visitor-counts.jpg?raw=true)
 
@@ -42,7 +40,7 @@ To display a visitor counter on your site:
 
    ![Visit counter](https://github.com/htejera/bludit-goatcounter-analytics-plugin/blob/main/img/visitor-counter.jpg?raw=true)
 
-6. **Remove Branding**: Optionally, enable **"Remove GoatCounter Branding"** to hide the **"by GoatCounter"** text from the visitor counter.
+6. **Remove Branding**: Optionally, enable **"Remove GoatCounter branding"** to hide the **"by GoatCounter"** text from the visitor counter.
 
 ## Customization
 
